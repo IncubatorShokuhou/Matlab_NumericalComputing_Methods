@@ -16,6 +16,10 @@ function [x, y] = BackwardEular(init, left, right, h)
 %
 
 
+% MAX
+MAX = 100;
+eps = 10e-8;
+
 % steps vector
 x = left:h:right;
 
@@ -26,8 +30,16 @@ y(1) = init;
 % calculate the value of function corresponding to each step
 for i=1:length(x)-1
     % implicit calculate formula
-    y(i+1) = y(i) + h*(y(i) - 2*x(i)/y(i));
-    y(i+1) = y(i) + h*(y(i+1) - 2*x(i+1)/y(i+1));
+    tmp = y(i) + h*(y(i) - 2*x(i)/y(i));
+    prev = tmp;
+    for j=1:MAX
+        y(i+1) = y(i) + h*(tmp - 2*x(i+1)/tmp);
+        if abs(y(i+1) - prev) < eps
+            disp(j);     %display iteration number
+            break;
+        end
+        prev = y(i+1);
+    end
 end
 
 % draw plot diagram

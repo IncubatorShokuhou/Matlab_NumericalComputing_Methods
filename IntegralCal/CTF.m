@@ -29,12 +29,12 @@ if isnan(rv)
 end
 
 % core part
+h = (right-left)/steps;
 sum = (lv+rv)/2;
-len = (right-left)/steps;
 for i=1 : steps-1
-    sum = sum + f(left+i*len);
+    sum = sum + f(left+i*h);
 end
-ans = sum * len;
+ans = sum * h;
 
 % convert to vapor number
 vpa(ans, 6);
