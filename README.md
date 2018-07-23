@@ -1,4 +1,4 @@
-# Matlab Numerical Computation Experiments
+# Matlab Numerical Computing Experiments
 
 > Class design for sophomore of SDCS, SYSU. 
 > Numerical Computation Class by Qing Ling, SDCS, SYSU. 
