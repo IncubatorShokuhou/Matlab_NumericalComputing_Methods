@@ -14,7 +14,7 @@ README: [English](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Exp
 这个项目提供了一些经典数值计算问题的实现：
 
 * 项目采用[消元法](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/Elimination)和[迭代法](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/Iteration)求解线性方程组。使用正态分布数据集直方图，使结论更有说服力和普遍适用性。
-* 同时该项目还提供了一种利用稀疏矩阵数据结构存储海量数据的强大方法，来演示[PageRank算法](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/PageRank)。使用这种方法，您可以获得给定数据集中的758888个节点等级。
+* 同时该项目还提供了一种利用稀疏矩阵数据结构存储海量数据的强大方法，来演示[PageRank算法](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/PageRank)。使用这种方法，您可以获得给定数据集中的**758888个节点**的rank。
 * 一些插值是用[拉格朗日插值](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/PageRank)（当然我们也可以构造牛顿插值）来构造差值。
 * 在非线性方程问题的求解时，我们采用[牛顿法及其变换](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/SqrtRoot)，经过实验，该方法显示出良好的效果。
 * 在[最小二乘算法LSM](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/LSM)中，我们将超定线性方程视为拟合问题。
