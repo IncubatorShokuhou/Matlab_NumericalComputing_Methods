@@ -15,7 +15,7 @@ This project provides implementations of some classic numerical computing proble
 
 Methods using [Elimination](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/Elimination) and [Iteration](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/Iteration) are facilitated to solve linearly equations. With normal distributed dataset histograms, the answers are more convincing and universally appropriate. 
 
-The project also give a powerful approach using sparse matrix data structure storing the huge data to [demo Page Rank Algorithm](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/PageRank). With this approach, you can obtain the 758888 nodes ranks in the given dataset.
+The project also give a powerful approach using sparse matrix data structure storing the huge data to [demo Page Rank Algorithm](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/PageRank). With this approach, you can obtain the **758888 nodes ranks** in the given dataset.
 
 As your wish, some interpolations are constructed in detail using Lagrange [interpolation](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/tree/master/Interpolation) (also we can construct Newton interpolation seemly). 
 
