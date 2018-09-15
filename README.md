@@ -4,6 +4,9 @@
 > Numerical Computation Class by Qing Ling, SDCS, SYSU. 
 > Author Nino Lau.
 
+README: [English](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/blob/master/README.md) | [中文](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/blob/master/README_zh.md)
+
+
 ## Introduce
 
 This project provides implementations of some classic numerical computing problems. 
@@ -48,7 +51,7 @@ Finally, initial value problem of ordinary differential equations is solved by [
 
 ### Interpolation
 
-* **Linear.m**, **Quadratic.m** and **Cubic.m** help to support Lagrange Iteration.
+* **Linear.m**, **Quadratic.m** and **Cubic.m** help to support Lagrange Iterpolation.
 * **Interpolation.m** uses API of Matlab, compare the results of our calculation and the API results.
 
 ### SqrRoot
@@ -90,6 +93,19 @@ Finally, initial value problem of ordinary differential equations is solved by [
 * **NC1A.pdf** and **NC2A.pdf** contain lots of thoughts, impacts(Normal distributed dataset histograms, answer plots time computations etc.), conclusions, pseudocode and feelings from this experiments. 
 * This part is written in *Chinese*.
 
+
+## Copyright & Lisence
+
+[GPL lisence](http://www.gnu.org/licenses/gpl.html)
+
+[Mozilla lisence](https://www.mozilla.org/en-US/MPL/)
+
+Copyright © Nino 2018.
+
+
+## Thanks
+
+Thanks to my teachers and families, I can accomplish my work smoothly and efficiently.
 
 
 
