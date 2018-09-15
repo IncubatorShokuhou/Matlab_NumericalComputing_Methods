@@ -1,7 +1,9 @@
 # Matlab Numerical Computing Experiments
 
 > 项目：数值计算课程设计 
+> 
 > 授课老师：凌青
+> 
 > 作者：Nino Lau
 
 README: [English](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/blob/master/README.md) | [中文](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/blob/master/README_zh.md)
