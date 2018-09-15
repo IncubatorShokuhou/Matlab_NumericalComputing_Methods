@@ -1,7 +1,9 @@
 # Matlab Numerical Computing Experiments
 
 > Class design for sophomore of SDCS, SYSU. 
+> 
 > Numerical Computation Class by Qing Ling, SDCS, SYSU. 
+> 
 > Author Nino Lau.
 
 README: [English](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/blob/master/README.md) | [中文](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments/blob/master/README_zh.md)
