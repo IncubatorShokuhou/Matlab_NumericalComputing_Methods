@@ -80,6 +80,7 @@ Finally, initial value problem of ordinary differential equations is solved by [
 
 * When solving some integration, common ways like trying to find the original functions of the integration are not mature enough. Here I use some numerical integration ways, e.g. Newton Cotes & Compound Integration, to estimate the value.
 * **CSPS.m** uses Compound Simpson Methods to deal with integral calculation and **CTF** uses Compound Trapezoidal Formula.
+* You are able to find some differences between these two methods in [Newtown-Cotes formula](https://en.wikipedia.org/wiki/Newton–Cotes_formulas).
 
 ### DiffEquation
 
