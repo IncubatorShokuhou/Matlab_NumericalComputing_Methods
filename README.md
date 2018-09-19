@@ -54,7 +54,7 @@ Finally, initial value problem of ordinary differential equations is solved by [
 
 ### Interpolation
 
-* **Linear.m**, **Quadratic.m** and **Cubic.m** help to support Lagrange Iterpolation.
+* **Linear.m**, **Quadratic.m** and **Cubic.m** help to support Lagrange Interpolation.
 * **Interpolation.m** uses API of Matlab, compare the results of our calculation and the API results.
 
 ### SqrRoot
