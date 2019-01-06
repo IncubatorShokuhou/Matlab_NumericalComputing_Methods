@@ -89,7 +89,7 @@ README: [English](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Exp
 
 ### 快速傅立叶变换 FFT
 
-* 在此项目周，我仅仅利用了Matlab提供的API函数。 **FFT.m** 用了fft()方法求解。
+* 在此项目周，我仅仅利用了Matlab提供的API函数。 **FFT.m** 用了`fft()`方法求解。
 * 我计划在不久的将来以更详细的方式实施它。
 
 ### 数值积分计算
